@@ -1,0 +1,478 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "p5.js Audio Visualizer",
+          "description": "A powerful, beat- and amplitude-responsive audio visualizer created with p5.sound, on an HTML5 Canvas by Amanda Yeh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-05T11:39:14Z",
+            "owner": "processing",
+            "repo": "p5.js-sound",
+            "stars": 909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osci-render",
+          "description": "Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T12:58:25Z",
+            "owner": "jameshball",
+            "repo": "osci-render",
+            "stars": 718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YouTube Musical Spectrum",
+          "description": "A browser extension that offers audio visualization on your YouTube page with nice musical notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-09T14:08:56Z",
+            "owner": "mfcc64",
+            "repo": "youtube-musical-spectrum",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio Visualizer",
+          "description": "An interesting web audio visualizer built with Pixi.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-07-16T06:32:08Z",
+            "owner": "teoxoy",
+            "repo": "audio-visualizer",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VR Ondes Martenot",
+          "description": "A playable rendition of the Ondes Martenot in Virtual Reality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-03T17:43:28Z",
+            "owner": "elifer5000",
+            "repo": "vr-ondes-martenot",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multitrack Audio Visualizer",
+              "description": "A real-time audio/music visualizer that displays multi-track waveforms with customizable colors and can export high-quality MP4/H.265 videos.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-03-21T18:42:35Z",
+                "owner": "geoffmyers",
+                "repo": "multitrack-audio-visualizer",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "Weekly Music Visualizations",
+          "description": "Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.",
+          "children": []
+        }
+      ],
+      "title": "Experiments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MIDI.js",
+          "description": "Making life easy to create a MIDI-app on the web.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-06-16T06:45:24Z",
+            "owner": "mudcube",
+            "repo": "MIDI.js",
+            "stars": 3926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audiowaveform",
+          "description": "C++ program to generate waveform data and render waveform images from audio files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-24T13:52:12Z",
+            "owner": "bbc",
+            "repo": "audiowaveform",
+            "stars": 2157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meyda",
+          "description": "Audio feature extraction for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-15T23:28:43Z",
+            "owner": "meyda",
+            "repo": "meyda",
+            "stars": 1657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beep.js",
+          "description": "A JavaScript toolkit for building browser-based synthesizers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-05-10T00:18:52Z",
+            "owner": "stewdio",
+            "repo": "beep.js",
+            "stars": 1369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p5.sound",
+          "description": "Brings the Processing approach to Web Audio and p5.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-05T11:39:14Z",
+            "owner": "processing",
+            "repo": "p5.js-sound",
+            "stars": 909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "standardized-audio-context",
+          "description": "A cross-browser implementation of the AudioContext which aims to closely follow the standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T21:42:07Z",
+            "owner": "chrisguttandin",
+            "repo": "standardized-audio-context",
+            "stars": 777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web-audio-beat-detector",
+          "description": "A beat detection utility which is using the Web Audio API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T10:41:04Z",
+            "owner": "chrisguttandin",
+            "repo": "web-audio-beat-detector",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThreeAudio.js",
+          "description": "Helps you create music visualizations in Three.js or tQuery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-10-17T18:55:13Z",
+            "owner": "unconed",
+            "repo": "ThreeAudio.js",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wav",
+          "description": "Battle tested Wav decoder/encoder",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-10-28T15:17:03Z",
+            "owner": "go-audio",
+            "repo": "wav",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web-audio-player",
+          "description": "A cross-browser Web Audio player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-13T16:22:48Z",
+            "owner": "Experience-Monks",
+            "repo": "web-audio-player",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audio",
+          "description": "Generic Go package designed to define a common interface to analyze and/or process audio data",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-05-22T00:43:59Z",
+            "owner": "go-audio",
+            "repo": "audio",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web-audio-analyser",
+          "description": "A thin wrapper around the Web Audio API that takes an element and gives you its waveform/frequency data in return.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-30T14:55:00Z",
+            "owner": "hughsk",
+            "repo": "web-audio-analyser",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octavian",
+          "description": "Utilities for reasoning about musical notes, frequencies, and intervals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-10T07:00:13Z",
+            "owner": "stevekinney",
+            "repo": "octavian",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audio-render",
+          "description": "A pass-through audio stream, providing structure for rendering stream audio data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-10T16:37:20Z",
+            "owner": "scrapjs",
+            "repo": "render",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web-media-playback",
+          "description": "Retrieve playback and buffering information about audio or video playing in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-28T03:26:10Z",
+            "owner": "hughsk",
+            "repo": "web-media-playback",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Libraries Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pixi.js",
+          "description": "A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T12:44:59Z",
+            "owner": "pixijs",
+            "repo": "pixijs",
+            "stars": 48006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cava",
+          "description": "A cross-platform terminal visualizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T14:48:11Z",
+            "owner": "karlstav",
+            "repo": "cava",
+            "stars": 6337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slang",
+          "description": "An audio programming language built in JS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-15T18:08:55Z",
+            "owner": "kylestetz",
+            "repo": "slang",
+            "stars": 1205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hylogen",
+          "description": "Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-15T11:30:54Z",
+            "owner": "sleexyz",
+            "repo": "hylogen",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clubber.js",
+          "description": "Application of music theory in audio reactive visualizations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-26T22:17:48Z",
+            "owner": "wizgrav",
+            "repo": "clubber",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Force",
+          "description": "Live coded shader editing with audio input.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-28T16:41:34Z",
+            "owner": "shawnlawson",
+            "repo": "The_Force",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Circular Audio Wave",
+          "description": "A JS library for audio visualization in circular wave using Web Audio API and ECharts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-18T11:34:02Z",
+            "owner": "kelvinau",
+            "repo": "circular-audio-wave",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Audio Extension",
+          "description": "A Chrome extension to play with Web Audio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-04T00:37:51Z",
+            "owner": "spite",
+            "repo": "WebAudioExtension",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wavebell",
+          "description": "A javascript voice recorder with realtime waveform, using web microphone",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-14T16:30:29Z",
+            "owner": "skylerlee",
+            "repo": "wavebell",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Libraries Visualization"
+    },
+    {
+      "description": "Your contributions are always welcome! Click here to read the guidelines.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Authors"
+    },
+    {
+      "description": "To the extent possible under law, Willian Justen has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:56.660Z",
+    "original_repository": "willianjusten/awesome-audio-visualization",
+    "original_repository_sha": "b3ec9d044a08757befeced7f099e057752eece60",
+    "enhanced_repository": "enhansome/enhansome-audio-visualization",
+    "enhanced_repository_description": null,
+    "title": "Awesome audio visualization with stars"
+  }
+}
