@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T12:58:25Z",
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 718
+            "stars": 719
           }
         },
         {
@@ -71,6 +71,20 @@
             "owner": "elifer5000",
             "repo": "vr-ondes-martenot",
             "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Master Pro Audio Analyzer Suite",
+          "description": "100% private, client-side Web Audio analyzer with 8192-FFT Spectrogram, RTA, and Phase Scope.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-31T22:55:24Z",
+            "owner": "varunmaurya-git",
+            "repo": "Master-Pro-Audio-Analyzer",
+            "stars": 0
           }
         },
         {
@@ -229,7 +243,7 @@
             "last_commit": "2024-10-28T15:17:03Z",
             "owner": "go-audio",
             "repo": "wav",
-            "stars": 393
+            "stars": 392
           }
         },
         {
@@ -330,7 +344,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T12:44:59Z",
+            "last_commit": "2026-08-13T17:23:23Z",
             "owner": "pixijs",
             "repo": "pixijs",
             "stars": 48006
@@ -347,7 +361,7 @@
             "last_commit": "2026-08-01T14:48:11Z",
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6337
+            "stars": 6339
           }
         },
         {
@@ -468,9 +482,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:02:56.660Z",
+    "last_updated": "2026-08-13T20:24:27.030Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
-    "original_repository_sha": "b3ec9d044a08757befeced7f099e057752eece60",
+    "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
     "enhanced_repository": "enhansome/enhansome-audio-visualization",
     "enhanced_repository_description": null,
     "title": "Awesome audio visualization with stars"
