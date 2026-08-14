@@ -344,10 +344,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T17:23:23Z",
+            "last_commit": "2026-08-14T10:09:54Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48006
+            "stars": 48008
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2026-08-01T14:48:11Z",
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6339
+            "stars": 6342
           }
         },
         {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T20:24:27.030Z",
+    "last_updated": "2026-08-14T20:17:02.755Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
     "enhanced_repository": "enhansome/enhansome-audio-visualization",
