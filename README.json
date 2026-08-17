@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T17:36:40Z",
+            "last_commit": "2026-08-17T11:47:04Z",
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 719
+            "stars": 718
           }
         },
         {
@@ -271,7 +271,7 @@
             "last_commit": "2024-05-22T00:43:59Z",
             "owner": "go-audio",
             "repo": "audio",
-            "stars": 239
+            "stars": 240
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2026-08-14T10:09:54Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48014
+            "stars": 48020
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2026-08-01T14:48:11Z",
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6349
+            "stars": 6351
           }
         },
         {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:59:57.685Z",
+    "last_updated": "2026-08-17T20:09:56.238Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
     "enhanced_repository": "enhansome/enhansome-audio-visualization",
