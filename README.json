@@ -14,7 +14,7 @@
             "last_commit": "2025-09-05T11:39:14Z",
             "owner": "processing",
             "repo": "p5.js-sound",
-            "stars": 909
+            "stars": 908
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T11:47:04Z",
+            "last_commit": "2026-08-18T13:53:07Z",
             "owner": "jameshball",
             "repo": "osci-render",
             "stars": 718
@@ -159,7 +159,7 @@
             "last_commit": "2024-07-15T23:28:43Z",
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1659
+            "stars": 1660
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2025-09-05T11:39:14Z",
             "owner": "processing",
             "repo": "p5.js-sound",
-            "stars": 909
+            "stars": 908
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2024-10-28T15:17:03Z",
             "owner": "go-audio",
             "repo": "wav",
-            "stars": 392
+            "stars": 391
           }
         },
         {
@@ -344,10 +344,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T10:09:54Z",
+            "last_commit": "2026-08-18T17:36:39Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48020
+            "stars": 48026
           }
         },
         {
@@ -358,7 +358,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-01T14:48:11Z",
+            "last_commit": "2026-08-18T18:33:11Z",
             "owner": "karlstav",
             "repo": "cava",
             "stars": 6351
@@ -375,7 +375,7 @@
             "last_commit": "2020-03-15T18:08:55Z",
             "owner": "kylestetz",
             "repo": "slang",
-            "stars": 1205
+            "stars": 1204
           }
         },
         {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:09:56.238Z",
+    "last_updated": "2026-08-18T20:01:46.897Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
     "enhanced_repository": "enhansome/enhansome-audio-visualization",
