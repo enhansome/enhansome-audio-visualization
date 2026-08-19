@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21714677,
             "language": "JavaScript",
             "last_commit": "2025-09-05T11:39:14Z",
             "owner": "processing",
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235408465,
             "language": "C++",
-            "last_commit": "2026-08-18T13:53:07Z",
+            "last_commit": "2026-08-19T11:06:22Z",
             "owner": "jameshball",
             "repo": "osci-render",
             "stars": 718
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177758255,
             "language": "JavaScript",
             "last_commit": "2026-07-09T14:08:56Z",
             "owner": "mfcc64",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 127974351,
             "language": "JavaScript",
             "last_commit": "2020-07-16T06:32:08Z",
             "owner": "teoxoy",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65732949,
             "language": "JavaScript",
             "last_commit": "2024-05-03T17:43:28Z",
             "owner": "elifer5000",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1315357820,
             "language": "HTML",
             "last_commit": "2026-07-31T22:55:24Z",
             "owner": "varunmaurya-git",
@@ -99,6 +105,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1126822752,
                 "language": "TypeScript",
                 "last_commit": "2026-03-21T18:42:35Z",
                 "owner": "geoffmyers",
@@ -107,18 +114,12 @@
               }
             }
           ]
-        },
-        {
-          "node_type": "item",
-          "title": "Weekly Music Visualizations",
-          "description": "Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.",
-          "children": []
         }
       ],
       "title": "Experiments"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -127,6 +128,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3457006,
             "language": "JavaScript",
             "last_commit": "2024-06-16T06:45:24Z",
             "owner": "mudcube",
@@ -141,6 +143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13561076,
             "language": "C++",
             "last_commit": "2025-08-24T13:52:12Z",
             "owner": "bbc",
@@ -155,6 +158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22857662,
             "language": "TypeScript",
             "last_commit": "2024-07-15T23:28:43Z",
             "owner": "meyda",
@@ -169,6 +173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32997960,
             "language": "JavaScript",
             "last_commit": "2015-05-10T00:18:52Z",
             "owner": "stewdio",
@@ -183,6 +188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21714677,
             "language": "JavaScript",
             "last_commit": "2025-09-05T11:39:14Z",
             "owner": "processing",
@@ -197,6 +203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47925308,
             "language": "JavaScript",
             "last_commit": "2026-07-21T21:42:07Z",
             "owner": "chrisguttandin",
@@ -211,6 +218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61281324,
             "language": "JavaScript",
             "last_commit": "2026-08-01T10:41:04Z",
             "owner": "chrisguttandin",
@@ -225,6 +233,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5002669,
             "language": "JavaScript",
             "last_commit": "2015-10-17T18:55:13Z",
             "owner": "unconed",
@@ -239,6 +248,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75704027,
             "language": "Go",
             "last_commit": "2024-10-28T15:17:03Z",
             "owner": "go-audio",
@@ -253,6 +263,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46895353,
             "language": "JavaScript",
             "last_commit": "2020-04-13T16:22:48Z",
             "owner": "Experience-Monks",
@@ -267,6 +278,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75693986,
             "language": "Go",
             "last_commit": "2024-05-22T00:43:59Z",
             "owner": "go-audio",
@@ -281,6 +293,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13108459,
             "language": "JavaScript",
             "last_commit": "2020-07-30T14:55:00Z",
             "owner": "hughsk",
@@ -295,6 +308,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34694161,
             "language": "TypeScript",
             "last_commit": "2026-06-10T07:00:13Z",
             "owner": "stevekinney",
@@ -309,6 +323,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45285193,
             "language": "JavaScript",
             "last_commit": "2015-11-10T16:37:20Z",
             "owner": "scrapjs",
@@ -323,6 +338,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47008527,
             "language": "JavaScript",
             "last_commit": "2015-11-28T03:26:10Z",
             "owner": "hughsk",
@@ -334,7 +350,7 @@
       "title": "Libraries Audio"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -343,11 +359,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7741856,
             "language": "TypeScript",
             "last_commit": "2026-08-18T17:36:39Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48026
+            "stars": 48033
           }
         },
         {
@@ -357,11 +374,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17808949,
             "language": "C",
             "last_commit": "2026-08-18T18:33:11Z",
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6351
+            "stars": 6354
           }
         },
         {
@@ -371,6 +389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150933666,
             "language": "JavaScript",
             "last_commit": "2020-03-15T18:08:55Z",
             "owner": "kylestetz",
@@ -385,6 +404,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54949999,
             "language": "JavaScript",
             "last_commit": "2024-01-15T11:30:54Z",
             "owner": "sleexyz",
@@ -399,6 +419,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67536518,
             "language": "JavaScript",
             "last_commit": "2018-06-26T22:17:48Z",
             "owner": "wizgrav",
@@ -413,6 +434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34472349,
             "language": "JavaScript",
             "last_commit": "2024-11-28T16:41:34Z",
             "owner": "shawnlawson",
@@ -427,6 +449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116280502,
             "language": "JavaScript",
             "last_commit": "2024-05-18T11:34:02Z",
             "owner": "kelvinau",
@@ -441,6 +464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33889475,
             "language": "JavaScript",
             "last_commit": "2017-01-04T00:37:51Z",
             "owner": "spite",
@@ -455,6 +479,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109578764,
             "language": "JavaScript",
             "last_commit": "2021-03-14T16:30:29Z",
             "owner": "skylerlee",
@@ -464,26 +489,12 @@
         }
       ],
       "title": "Libraries Visualization"
-    },
-    {
-      "description": "Your contributions are always welcome! Click here to read the guidelines.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Authors"
-    },
-    {
-      "description": "To the extent possible under law, Willian Justen has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:01:46.897Z",
+    "last_updated": "2026-08-19T12:18:38.776Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
+    "original_repository_id": 54681855,
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
     "enhanced_repository": "enhansome/enhansome-audio-visualization",
     "enhanced_repository_description": null,
