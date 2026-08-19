@@ -361,10 +361,10 @@
             "archived": false,
             "id": 7741856,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:36:39Z",
+            "last_commit": "2026-08-19T20:07:13Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48033
+            "stars": 48036
           }
         },
         {
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:18:38.776Z",
+    "last_updated": "2026-08-19T20:09:08.033Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
     "original_repository_id": 54681855,
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
