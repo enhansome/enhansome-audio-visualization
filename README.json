@@ -27,10 +27,10 @@
             "archived": false,
             "id": 235408465,
             "language": "C++",
-            "last_commit": "2026-08-19T11:06:22Z",
+            "last_commit": "2026-08-20T15:30:32Z",
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 718
+            "stars": 719
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2024-07-15T23:28:43Z",
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1660
+            "stars": 1661
           }
         },
         {
@@ -361,10 +361,10 @@
             "archived": false,
             "id": 7741856,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T20:07:13Z",
+            "last_commit": "2026-08-20T18:16:47Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48036
+            "stars": 48040
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-18T18:33:11Z",
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6354
+            "stars": 6360
           }
         },
         {
@@ -454,7 +454,7 @@
             "last_commit": "2024-05-18T11:34:02Z",
             "owner": "kelvinau",
             "repo": "circular-audio-wave",
-            "stars": 280
+            "stars": 281
           }
         },
         {
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:09:08.033Z",
+    "last_updated": "2026-08-20T20:11:48.903Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
     "original_repository_id": 54681855,
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",

@@ -12,7 +12,7 @@
 * [Check the logo in action](http://www.shiz.co/aav/)
 * [Contributing Guide](Contributing.md)
 
-[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,777 | 🐛 102 | 📅 2026-08-18
+[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,191 | 🐛 105 | 📅 2026-08-18
 
 ## Table of Contents
 
@@ -45,13 +45,13 @@
 * [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
 * [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 * [Motion Sound](http://motionsound.io/)
-* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,354 | 🐛 17 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
+* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,360 | 🐛 17 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
 
 ## Experiments
 
 * [p5.js Audio Visualizer](https://amandayehh.github.io/audio-visualizer/) - A powerful, beat- and amplitude-responsive audio visualizer created with [p5.sound](https://github.com/processing/p5.js-sound) ⭐ 908 | 🐛 194 | 🌐 JavaScript | 📅 2025-09-05, on an HTML5 Canvas by Amanda Yeh.
 
-* [osci-render](https://github.com/jameshball/osci-render) ⭐ 718 | 🐛 21 | 🌐 C++ | 📅 2026-08-19 - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
+* [osci-render](https://github.com/jameshball/osci-render) ⭐ 719 | 🐛 21 | 🌐 C++ | 📅 2026-08-20 - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
 
 * [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) ⭐ 198 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-09 - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
 
@@ -209,7 +209,7 @@
 
 * [MIDI.js](https://github.com/mudcube/MIDI.js/) ⚠️ Archived - Making life easy to create a MIDI-app on the web.
 * [audiowaveform](https://github.com/bbc/audiowaveform) ⭐ 2,157 | 🐛 43 | 🌐 C++ | 📅 2025-08-24 - C++ program to generate waveform data and render waveform images from audio files.
-* [meyda](https://github.com/meyda/meyda) ⭐ 1,660 | 🐛 70 | 🌐 TypeScript | 📅 2024-07-15 - Audio feature extraction for JavaScript.
+* [meyda](https://github.com/meyda/meyda) ⭐ 1,661 | 🐛 70 | 🌐 TypeScript | 📅 2024-07-15 - Audio feature extraction for JavaScript.
 * [Beep.js](https://github.com/stewdio/beep.js) ⭐ 1,369 | 🐛 3 | 🌐 JavaScript | 📅 2015-05-10 - A JavaScript toolkit for building browser-based synthesizers.
 * [p5.sound](https://github.com/processing/p5.js-sound) ⭐ 908 | 🐛 194 | 🌐 JavaScript | 📅 2025-09-05 - Brings the Processing approach to Web Audio and p5.js.
 * [standardized-audio-context](https://github.com/chrisguttandin/standardized-audio-context) ⭐ 778 | 🐛 15 | 🌐 JavaScript | 📅 2026-07-21 - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
@@ -231,13 +231,13 @@
 
 ## Libraries Visualization
 
-* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,036 | 🐛 347 | 🌐 TypeScript | 📅 2026-08-19 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
-* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,354 | 🐛 17 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
+* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,040 | 🐛 343 | 🌐 TypeScript | 📅 2026-08-20 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,360 | 🐛 17 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
 * [Slang](https://github.com/kylestetz/slang) ⭐ 1,204 | 🐛 7 | 🌐 JavaScript | 📅 2020-03-15 - An audio programming language built in JS
 * [Hylogen](https://github.com/sleexyz/hylogen) ⭐ 490 | 🐛 20 | 🌐 JavaScript | 📅 2024-01-15 - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 * [Clubber.js](https://github.com/wizgrav/clubber) ⭐ 376 | 🐛 5 | 🌐 JavaScript | 📅 2018-06-26 - Application of music theory in audio reactive visualizations.
 * [The Force](https://github.com/shawnlawson/The_Force) ⭐ 294 | 🐛 11 | 🌐 JavaScript | 📅 2024-11-28 - Live coded shader editing with audio input.
-* [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) ⭐ 280 | 🐛 14 | 🌐 JavaScript | 📅 2024-05-18 - A JS library for audio visualization in circular wave using Web Audio API and ECharts
+* [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) ⭐ 281 | 🐛 14 | 🌐 JavaScript | 📅 2024-05-18 - A JS library for audio visualization in circular wave using Web Audio API and ECharts
 * [Web Audio Extension](https://github.com/spite/WebAudioExtension) ⭐ 193 | 🐛 7 | 🌐 JavaScript | 📅 2017-01-04 - A Chrome extension to play with Web Audio.
 * [wavebell](https://github.com/skylerlee/wavebell) ⭐ 51 | 🐛 4 | 🌐 JavaScript | 📅 2021-03-14 - A javascript voice recorder with realtime waveform, using web microphone
 * [p5.js](http://p5js.org/) - A JavaScript library for creating graphic and interactive experiences, based on the core principles of Processing.
@@ -320,7 +320,7 @@
 
 ## Contributing
 
-Your contributions are always welcome! [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md) ⭐ 5,063 | 🐛 13 | 🌐 Shell | 📅 2026-08-13.
+Your contributions are always welcome! [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md) ⭐ 5,064 | 🐛 13 | 🌐 Shell | 📅 2026-08-13.
 
 ## Authors
 
@@ -336,4 +336,4 @@ To the extent possible under law, [Willian Justen](http://github.com/willianjust
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
