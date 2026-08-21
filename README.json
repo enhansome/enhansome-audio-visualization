@@ -27,10 +27,10 @@
             "archived": false,
             "id": 235408465,
             "language": "C++",
-            "last_commit": "2026-08-20T15:30:32Z",
+            "last_commit": "2026-08-21T17:15:39Z",
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 719
+            "stars": 718
           }
         },
         {
@@ -205,7 +205,7 @@
             "archived": false,
             "id": 47925308,
             "language": "JavaScript",
-            "last_commit": "2026-07-21T21:42:07Z",
+            "last_commit": "2026-08-21T19:39:06Z",
             "owner": "chrisguttandin",
             "repo": "standardized-audio-context",
             "stars": 778
@@ -364,7 +364,7 @@
             "last_commit": "2026-08-20T18:16:47Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48040
+            "stars": 48042
           }
         },
         {
@@ -409,7 +409,7 @@
             "last_commit": "2024-01-15T11:30:54Z",
             "owner": "sleexyz",
             "repo": "hylogen",
-            "stars": 490
+            "stars": 488
           }
         },
         {
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:11:48.903Z",
+    "last_updated": "2026-08-21T20:02:05.074Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
     "original_repository_id": 54681855,
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
