@@ -27,10 +27,10 @@
             "archived": false,
             "id": 235408465,
             "language": "C++",
-            "last_commit": "2026-08-21T17:15:39Z",
+            "last_commit": "2026-08-22T19:24:17Z",
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 718
+            "stars": 719
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 1315357820,
             "language": "HTML",
-            "last_commit": "2026-07-31T22:55:24Z",
+            "last_commit": "2026-08-22T18:21:25Z",
             "owner": "varunmaurya-git",
             "repo": "Master-Pro-Audio-Analyzer",
             "stars": 0
@@ -163,7 +163,7 @@
             "last_commit": "2024-07-15T23:28:43Z",
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1661
+            "stars": 1662
           }
         },
         {
@@ -205,7 +205,7 @@
             "archived": false,
             "id": 47925308,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T19:39:06Z",
+            "last_commit": "2026-08-22T08:55:05Z",
             "owner": "chrisguttandin",
             "repo": "standardized-audio-context",
             "stars": 778
@@ -361,10 +361,10 @@
             "archived": false,
             "id": 7741856,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T18:16:47Z",
+            "last_commit": "2026-08-21T20:22:47Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48042
+            "stars": 48049
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-18T18:33:11Z",
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6360
+            "stars": 6361
           }
         },
         {
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T20:02:05.074Z",
+    "last_updated": "2026-08-22T20:00:42.853Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
     "original_repository_id": 54681855,
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
