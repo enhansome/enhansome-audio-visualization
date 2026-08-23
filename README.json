@@ -27,10 +27,10 @@
             "archived": false,
             "id": 235408465,
             "language": "C++",
-            "last_commit": "2026-08-22T19:24:17Z",
+            "last_commit": "2026-08-23T19:59:58Z",
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 719
+            "stars": 720
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-08-01T10:41:04Z",
             "owner": "chrisguttandin",
             "repo": "web-audio-beat-detector",
-            "stars": 676
+            "stars": 677
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2026-08-21T20:22:47Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48049
+            "stars": 48056
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-18T18:33:11Z",
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6361
+            "stars": 6364
           }
         },
         {
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T20:00:42.853Z",
+    "last_updated": "2026-08-23T20:00:35.978Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
     "original_repository_id": 54681855,
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
