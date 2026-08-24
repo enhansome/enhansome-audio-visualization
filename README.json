@@ -208,7 +208,7 @@
             "last_commit": "2026-08-22T08:55:05Z",
             "owner": "chrisguttandin",
             "repo": "standardized-audio-context",
-            "stars": 778
+            "stars": 777
           }
         },
         {
@@ -361,10 +361,10 @@
             "archived": false,
             "id": 7741856,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T20:22:47Z",
+            "last_commit": "2026-08-24T19:44:09Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48064
+            "stars": 48066
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-18T18:33:11Z",
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6366
+            "stars": 6367
           }
         },
         {
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:42.915Z",
+    "last_updated": "2026-08-24T20:12:47.582Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
     "original_repository_id": 54681855,
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",

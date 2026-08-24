@@ -12,7 +12,7 @@
 * [Check the logo in action](http://www.shiz.co/aav/)
 * [Contributing Guide](Contributing.md)
 
-[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,508 | 🐛 106 | 📅 2026-08-21
+[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,584 | 🐛 106 | 📅 2026-08-21
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@
 * [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
 * [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 * [Motion Sound](http://motionsound.io/)
-* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,366 | 🐛 17 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
+* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,367 | 🐛 17 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
 
 ## Experiments
 
@@ -212,7 +212,7 @@
 * [meyda](https://github.com/meyda/meyda) ⭐ 1,662 | 🐛 70 | 🌐 TypeScript | 📅 2024-07-15 - Audio feature extraction for JavaScript.
 * [Beep.js](https://github.com/stewdio/beep.js) ⭐ 1,369 | 🐛 3 | 🌐 JavaScript | 📅 2015-05-10 - A JavaScript toolkit for building browser-based synthesizers.
 * [p5.sound](https://github.com/processing/p5.js-sound) ⭐ 907 | 🐛 194 | 🌐 JavaScript | 📅 2025-09-05 - Brings the Processing approach to Web Audio and p5.js.
-* [standardized-audio-context](https://github.com/chrisguttandin/standardized-audio-context) ⭐ 778 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-22 - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
+* [standardized-audio-context](https://github.com/chrisguttandin/standardized-audio-context) ⭐ 777 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-22 - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
 * [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) ⭐ 677 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-01 - A beat detection utility which is using the Web Audio API.
 * [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) ⭐ 541 | 🐛 3 | 🌐 JavaScript | 📅 2015-10-17 - Helps you create music visualizations in Three.js or tQuery.
 * [wav](https://github.com/go-audio/wav) ⚠️ Archived - Battle tested Wav decoder/encoder
@@ -231,8 +231,8 @@
 
 ## Libraries Visualization
 
-* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,064 | 🐛 346 | 🌐 TypeScript | 📅 2026-08-21 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
-* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,366 | 🐛 17 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
+* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,066 | 🐛 339 | 🌐 TypeScript | 📅 2026-08-24 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,367 | 🐛 17 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
 * [Slang](https://github.com/kylestetz/slang) ⭐ 1,203 | 🐛 7 | 🌐 JavaScript | 📅 2020-03-15 - An audio programming language built in JS
 * [Hylogen](https://github.com/sleexyz/hylogen) ⭐ 488 | 🐛 20 | 🌐 JavaScript | 📅 2024-01-15 - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 * [Clubber.js](https://github.com/wizgrav/clubber) ⭐ 376 | 🐛 5 | 🌐 JavaScript | 📅 2018-06-26 - Application of music theory in audio reactive visualizations.
