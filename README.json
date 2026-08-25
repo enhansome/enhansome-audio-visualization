@@ -15,7 +15,7 @@
             "last_commit": "2025-09-05T11:39:14Z",
             "owner": "processing",
             "repo": "p5.js-sound",
-            "stars": 908
+            "stars": 909
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-23T20:17:21Z",
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 721
+            "stars": 723
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2025-09-05T11:39:14Z",
             "owner": "processing",
             "repo": "p5.js-sound",
-            "stars": 908
+            "stars": 909
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2026-08-24T19:44:09Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48068
+            "stars": 48069
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-18T18:33:11Z",
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6368
+            "stars": 6366
           }
         },
         {
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:48:01.978Z",
+    "last_updated": "2026-08-25T20:11:18.475Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
     "original_repository_id": 54681855,
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
