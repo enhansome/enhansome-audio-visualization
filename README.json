@@ -30,7 +30,7 @@
             "last_commit": "2026-08-23T20:17:21Z",
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 723
+            "stars": 724
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-09T14:08:56Z",
             "owner": "mfcc64",
             "repo": "youtube-musical-spectrum",
-            "stars": 198
+            "stars": 197
           }
         },
         {
@@ -205,7 +205,7 @@
             "archived": false,
             "id": 47925308,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T08:55:05Z",
+            "last_commit": "2026-08-25T21:01:39Z",
             "owner": "chrisguttandin",
             "repo": "standardized-audio-context",
             "stars": 777
@@ -220,7 +220,7 @@
             "archived": false,
             "id": 61281324,
             "language": "JavaScript",
-            "last_commit": "2026-08-01T10:41:04Z",
+            "last_commit": "2026-08-26T09:43:39Z",
             "owner": "chrisguttandin",
             "repo": "web-audio-beat-detector",
             "stars": 677
@@ -361,10 +361,10 @@
             "archived": false,
             "id": 7741856,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:44:09Z",
+            "last_commit": "2026-08-26T14:53:09Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48069
+            "stars": 48075
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-18T18:33:11Z",
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6366
+            "stars": 6370
           }
         },
         {
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:11:18.475Z",
+    "last_updated": "2026-08-26T22:31:33.098Z",
     "original_repository": "willianjusten/awesome-audio-visualization",
     "original_repository_id": 54681855,
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
