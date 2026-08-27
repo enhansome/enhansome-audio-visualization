@@ -148,7 +148,7 @@
             "last_commit": "2025-08-24T13:52:12Z",
             "owner": "bbc",
             "repo": "audiowaveform",
-            "stars": 2157
+            "stars": 2158
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-08-26T09:43:39Z",
             "owner": "chrisguttandin",
             "repo": "web-audio-beat-detector",
-            "stars": 677
+            "stars": 678
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2026-08-26T14:53:09Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48075
+            "stars": 48082
           }
         },
         {
@@ -492,9 +492,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:31:33.098Z",
-    "original_repository": "willianjusten/awesome-audio-visualization",
-    "original_repository_id": 54681855,
+    "last_updated": "2026-08-27T11:21:08.190Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 54681855,
+      "language": "Shell",
+      "last_commit": "2026-08-13T14:34:10Z",
+      "owner": "willianjusten",
+      "repo": "awesome-audio-visualization",
+      "stars": 5064
+    },
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
     "enhanced_repository": "enhansome/enhansome-audio-visualization",
     "enhanced_repository_description": null,
