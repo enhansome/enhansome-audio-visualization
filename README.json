@@ -364,7 +364,7 @@
             "last_commit": "2026-08-26T14:53:09Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48082
+            "stars": 48088
           }
         },
         {
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:08.190Z",
+    "last_updated": "2026-08-28T03:52:07.536Z",
     "original_repository_info": {
       "archived": false,
       "id": 54681855,
@@ -500,7 +500,7 @@
       "last_commit": "2026-08-13T14:34:10Z",
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
-      "stars": 5064
+      "stars": 5065
     },
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
     "enhanced_repository": "enhansome/enhansome-audio-visualization",
