@@ -16,7 +16,8 @@
             "owner": "processing",
             "repo": "p5.js-sound",
             "stars": 909
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-23T20:17:21Z",
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 724
-          }
+            "stars": 725
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mfcc64",
             "repo": "youtube-musical-spectrum",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "teoxoy",
             "repo": "audio-visualizer",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "elifer5000",
             "repo": "vr-ondes-martenot",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "varunmaurya-git",
             "repo": "Master-Pro-Audio-Analyzer",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "group",
@@ -111,7 +117,8 @@
                 "owner": "geoffmyers",
                 "repo": "multitrack-audio-visualizer",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:28:16.321Z"
             }
           ]
         }
@@ -133,8 +140,9 @@
             "last_commit": "2024-06-16T06:45:24Z",
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3926
-          }
+            "stars": 3925
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -149,7 +157,8 @@
             "owner": "bbc",
             "repo": "audiowaveform",
             "stars": 2158
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -163,8 +172,9 @@
             "last_commit": "2024-07-15T23:28:43Z",
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1662
-          }
+            "stars": 1663
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -179,7 +189,8 @@
             "owner": "stewdio",
             "repo": "beep.js",
             "stars": 1369
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -194,7 +205,8 @@
             "owner": "processing",
             "repo": "p5.js-sound",
             "stars": 909
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -209,7 +221,8 @@
             "owner": "chrisguttandin",
             "repo": "standardized-audio-context",
             "stars": 777
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -224,7 +237,8 @@
             "owner": "chrisguttandin",
             "repo": "web-audio-beat-detector",
             "stars": 678
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -239,7 +253,8 @@
             "owner": "unconed",
             "repo": "ThreeAudio.js",
             "stars": 541
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -254,7 +269,8 @@
             "owner": "go-audio",
             "repo": "wav",
             "stars": 391
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -269,7 +285,8 @@
             "owner": "Experience-Monks",
             "repo": "web-audio-player",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -284,7 +301,8 @@
             "owner": "go-audio",
             "repo": "audio",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -299,7 +317,8 @@
             "owner": "hughsk",
             "repo": "web-audio-analyser",
             "stars": 217
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -314,7 +333,8 @@
             "owner": "stevekinney",
             "repo": "octavian",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -329,7 +349,8 @@
             "owner": "scrapjs",
             "repo": "render",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -344,7 +365,8 @@
             "owner": "hughsk",
             "repo": "web-media-playback",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         }
       ],
       "title": "Libraries Audio"
@@ -364,8 +386,9 @@
             "last_commit": "2026-08-26T14:53:09Z",
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48088
-          }
+            "stars": 48090
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -379,8 +402,9 @@
             "last_commit": "2026-08-18T18:33:11Z",
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6370
-          }
+            "stars": 6375
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -395,7 +419,8 @@
             "owner": "kylestetz",
             "repo": "slang",
             "stars": 1203
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -410,7 +435,8 @@
             "owner": "sleexyz",
             "repo": "hylogen",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -425,7 +451,8 @@
             "owner": "wizgrav",
             "repo": "clubber",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -440,7 +467,8 @@
             "owner": "shawnlawson",
             "repo": "The_Force",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -455,7 +483,8 @@
             "owner": "kelvinau",
             "repo": "circular-audio-wave",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -470,7 +499,8 @@
             "owner": "spite",
             "repo": "WebAudioExtension",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         },
         {
           "node_type": "item",
@@ -485,14 +515,15 @@
             "owner": "skylerlee",
             "repo": "wavebell",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T02:28:16.321Z"
         }
       ],
       "title": "Libraries Visualization"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:52:07.536Z",
+    "last_updated": "2026-08-29T02:28:16.321Z",
     "original_repository_info": {
       "archived": false,
       "id": 54681855,
@@ -500,7 +531,7 @@
       "last_commit": "2026-08-13T14:34:10Z",
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
-      "stars": 5065
+      "stars": 5066
     },
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
     "enhanced_repository": "enhansome/enhansome-audio-visualization",
