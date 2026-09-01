@@ -19,7 +19,7 @@
             "open_issues": 194,
             "owner": "processing",
             "repo": "p5.js-sound",
-            "stars": 910,
+            "stars": 911,
             "topics": [
               "audio",
               "sound"
@@ -343,7 +343,7 @@
             "open_issues": 194,
             "owner": "processing",
             "repo": "p5.js-sound",
-            "stars": 910,
+            "stars": 911,
             "topics": [
               "audio",
               "sound"
@@ -363,11 +363,11 @@
             "id": 47925308,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T00:19:11Z",
+            "last_commit": "2026-09-01T16:55:34Z",
             "open_issues": 15,
             "owner": "chrisguttandin",
             "repo": "standardized-audio-context",
-            "stars": 777,
+            "stars": 778,
             "topics": [
               "audio",
               "audio-worklet",
@@ -594,11 +594,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T14:53:09Z",
-            "open_issues": 344,
+            "last_commit": "2026-09-01T16:46:23Z",
+            "open_issues": 348,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48098,
+            "stars": 48102,
             "topics": [
               "canvas",
               "canvas2d",
@@ -633,7 +633,7 @@
             "open_issues": 18,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6385,
+            "stars": 6388,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:26:31.966Z",
+    "last_updated": "2026-09-01T22:06:37.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
