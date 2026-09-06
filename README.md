@@ -12,7 +12,7 @@
 * [Check the logo in action](http://www.shiz.co/aav/)
 * [Contributing Guide](Contributing.md)
 
-[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,303 | 🐛 106 | 📅 2026-09-02
+[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,644 | 🐛 106 | 📅 2026-09-02
 
 ## Table of Contents
 
@@ -51,7 +51,7 @@
 
 * [p5.js Audio Visualizer](https://amandayehh.github.io/audio-visualizer/) - A powerful, beat- and amplitude-responsive audio visualizer created with [p5.sound](https://github.com/processing/p5.js-sound) ⭐ 911 | 🐛 194 | 🌐 JavaScript | 📅 2025-09-05, on an HTML5 Canvas by Amanda Yeh.
 
-* [osci-render](https://github.com/jameshball/osci-render) ⭐ 725 | 🐛 22 | 🌐 C++ | 📅 2026-09-05 - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
+* [osci-render](https://github.com/jameshball/osci-render) ⭐ 726 | 🐛 21 | 🌐 C++ | 📅 2026-09-06 - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
 
 * [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) ⭐ 197 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-09 - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
 
@@ -231,7 +231,7 @@
 
 ## Libraries Visualization
 
-* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,121 | 🐛 353 | 🌐 TypeScript | 📅 2026-09-04 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,130 | 🐛 354 | 🌐 TypeScript | 📅 2026-09-04 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
 * [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,399 | 🐛 18 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
 * [Slang](https://github.com/kylestetz/slang) ⭐ 1,203 | 🐛 7 | 🌐 JavaScript | 📅 2020-03-15 - An audio programming language built in JS
 * [Hylogen](https://github.com/sleexyz/hylogen) ⭐ 488 | 🐛 20 | 🌐 JavaScript | 📅 2024-01-15 - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
@@ -320,7 +320,7 @@
 
 ## Contributing
 
-Your contributions are always welcome! [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md) ⭐ 5,069 | 🐛 14 | 🌐 Shell | 📅 2026-08-13.
+Your contributions are always welcome! [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md) ⭐ 5,070 | 🐛 14 | 🌐 Shell | 📅 2026-08-13.
 
 ## Authors
 
@@ -336,4 +336,4 @@ To the extent possible under law, [Willian Justen](http://github.com/willianjust
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
