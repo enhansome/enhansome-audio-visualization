@@ -39,8 +39,8 @@
             "id": 235408465,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T21:43:38Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-07T20:25:08Z",
+            "open_issues": 23,
             "owner": "jameshball",
             "repo": "osci-render",
             "stars": 726,
@@ -283,7 +283,7 @@
             "open_issues": 70,
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1665,
+            "stars": 1666,
             "topics": [
               "audio-features",
               "feature-extraction",
@@ -415,7 +415,7 @@
             "open_issues": 3,
             "owner": "unconed",
             "repo": "ThreeAudio.js",
-            "stars": 541,
+            "stars": 542,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -594,11 +594,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T08:40:15Z",
-            "open_issues": 354,
+            "last_commit": "2026-09-07T09:32:32Z",
+            "open_issues": 345,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48130,
+            "stars": 48132,
             "topics": [
               "canvas",
               "canvas2d",
@@ -668,7 +668,7 @@
             "open_issues": 7,
             "owner": "kylestetz",
             "repo": "slang",
-            "stars": 1203,
+            "stars": 1202,
             "topics": [
               "audio",
               "javascript",
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T21:45:52.602Z",
+    "last_updated": "2026-09-07T22:17:26.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
@@ -849,7 +849,7 @@
       "language": "Shell",
       "license": null,
       "last_commit": "2026-08-13T14:34:10Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
       "stars": 5070,
