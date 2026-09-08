@@ -39,7 +39,7 @@
             "id": 235408465,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T20:25:08Z",
+            "last_commit": "2026-09-08T19:18:44Z",
             "open_issues": 23,
             "owner": "jameshball",
             "repo": "osci-render",
@@ -238,7 +238,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3925,
+            "stars": 3924,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -259,7 +259,7 @@
             "open_issues": 43,
             "owner": "bbc",
             "repo": "audiowaveform",
-            "stars": 2158,
+            "stars": 2160,
             "topics": [
               "audio",
               "c-plus-plus"
@@ -594,11 +594,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T09:32:32Z",
-            "open_issues": 345,
+            "last_commit": "2026-09-08T15:02:44Z",
+            "open_issues": 343,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48132,
+            "stars": 48138,
             "topics": [
               "canvas",
               "canvas2d",
@@ -633,7 +633,7 @@
             "open_issues": 18,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6399,
+            "stars": 6402,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -800,7 +800,7 @@
             "open_issues": 7,
             "owner": "spite",
             "repo": "WebAudioExtension",
-            "stars": 194,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:17:26.653Z",
+    "last_updated": "2026-09-08T22:02:49.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
