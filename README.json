@@ -39,11 +39,11 @@
             "id": 235408465,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T19:18:44Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-09T21:17:29Z",
+            "open_issues": 24,
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 726,
+            "stars": 728,
             "topics": [
               "audio",
               "audio-plugin",
@@ -313,7 +313,7 @@
             "open_issues": 3,
             "owner": "stewdio",
             "repo": "beep.js",
-            "stars": 1369,
+            "stars": 1368,
             "topics": [
               "audio",
               "beep",
@@ -598,7 +598,7 @@
             "open_issues": 343,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48138,
+            "stars": 48142,
             "topics": [
               "canvas",
               "canvas2d",
@@ -633,7 +633,7 @@
             "open_issues": 18,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6402,
+            "stars": 6405,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:02:49.417Z",
+    "last_updated": "2026-09-09T21:59:45.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
