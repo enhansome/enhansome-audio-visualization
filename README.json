@@ -39,7 +39,7 @@
             "id": 235408465,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T20:06:07Z",
+            "last_commit": "2026-09-11T20:18:11Z",
             "open_issues": 21,
             "owner": "jameshball",
             "repo": "osci-render",
@@ -633,7 +633,7 @@
             "open_issues": 18,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6408,
+            "stars": 6410,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:58:13.569Z",
+    "last_updated": "2026-09-11T22:00:20.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
@@ -852,7 +852,7 @@
       "open_issues": 15,
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
-      "stars": 5069,
+      "stars": 5071,
       "topics": []
     },
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
