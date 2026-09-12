@@ -39,11 +39,11 @@
             "id": 235408465,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T20:18:11Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-12T20:50:00Z",
+            "open_issues": 22,
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 728,
+            "stars": 729,
             "topics": [
               "audio",
               "audio-plugin",
@@ -525,7 +525,7 @@
             "id": 34694161,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T22:42:36Z",
+            "last_commit": "2026-09-12T19:46:45Z",
             "open_issues": 0,
             "owner": "stevekinney",
             "repo": "octavian",
@@ -595,10 +595,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T15:02:44Z",
-            "open_issues": 343,
+            "open_issues": 345,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48142,
+            "stars": 48148,
             "topics": [
               "canvas",
               "canvas2d",
@@ -633,7 +633,7 @@
             "open_issues": 18,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6410,
+            "stars": 6411,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T22:00:20.741Z",
+    "last_updated": "2026-09-12T21:42:28.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
