@@ -39,11 +39,11 @@
             "id": 235408465,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T20:50:00Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-13T09:54:45Z",
+            "open_issues": 21,
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 729,
+            "stars": 730,
             "topics": [
               "audio",
               "audio-plugin",
@@ -259,7 +259,7 @@
             "open_issues": 43,
             "owner": "bbc",
             "repo": "audiowaveform",
-            "stars": 2160,
+            "stars": 2161,
             "topics": [
               "audio",
               "c-plus-plus"
@@ -283,7 +283,7 @@
             "open_issues": 70,
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1666,
+            "stars": 1667,
             "topics": [
               "audio-features",
               "feature-extraction",
@@ -594,11 +594,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T15:02:44Z",
-            "open_issues": 345,
+            "last_commit": "2026-09-13T09:47:22Z",
+            "open_issues": 346,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48148,
+            "stars": 48153,
             "topics": [
               "canvas",
               "canvas2d",
@@ -633,7 +633,7 @@
             "open_issues": 18,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6411,
+            "stars": 6415,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -840,7 +840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:42:28.316Z",
+    "last_updated": "2026-09-13T21:47:30.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
@@ -852,7 +852,7 @@
       "open_issues": 15,
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
-      "stars": 5071,
+      "stars": 5072,
       "topics": []
     },
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
