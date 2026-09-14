@@ -12,7 +12,7 @@
 * [Check the logo in action](http://www.shiz.co/aav/)
 * [Contributing Guide](Contributing.md)
 
-[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,743 | 🐛 106 | 📅 2026-09-02
+[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,054 | 🐛 106 | 📅 2026-09-02
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@
 * [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
 * [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 * [Motion Sound](http://motionsound.io/)
-* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,415 | 🐛 18 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
+* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,419 | 🐛 18 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
 
 ## Experiments
 
@@ -231,8 +231,8 @@
 
 ## Libraries Visualization
 
-* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,153 | 🐛 346 | 🌐 TypeScript | 📅 2026-09-13 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
-* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,415 | 🐛 18 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
+* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,159 | 🐛 344 | 🌐 TypeScript | 📅 2026-09-14 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,419 | 🐛 18 | 🌐 C | 📅 2026-08-18 - A cross-platform terminal visualizer.
 * [Slang](https://github.com/kylestetz/slang) ⭐ 1,202 | 🐛 7 | 🌐 JavaScript | 📅 2020-03-15 - An audio programming language built in JS
 * [Hylogen](https://github.com/sleexyz/hylogen) ⭐ 488 | 🐛 20 | 🌐 JavaScript | 📅 2024-01-15 - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 * [Clubber.js](https://github.com/wizgrav/clubber) ⭐ 376 | 🐛 5 | 🌐 JavaScript | 📅 2018-06-26 - Application of music theory in audio reactive visualizations.
@@ -320,7 +320,7 @@
 
 ## Contributing
 
-Your contributions are always welcome! [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md) ⭐ 5,072 | 🐛 15 | 🌐 Shell | 📅 2026-08-13.
+Your contributions are always welcome! [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md) ⭐ 5,072 | 🐛 16 | 🌐 Shell | 📅 2026-08-13.
 
 ## Authors
 
@@ -336,4 +336,4 @@ To the extent possible under law, [Willian Justen](http://github.com/willianjust
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
