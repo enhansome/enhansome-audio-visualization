@@ -187,29 +187,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Real-time multi-track audio visualizer with customizable colors & high-quality export.",
-                "homepage": "https://www.geoffmyers.com",
+                "description": "Browser-based multitrack audio visualiser with synchronised playback, configurable presets and video export via ffmpeg.wasm. Shares one core with a headless CLI.",
+                "homepage": "https://geoffmyers.com",
                 "id": 1126822752,
                 "language": "TypeScript",
-                "license": "GPL-2.0",
-                "last_commit": "2026-03-21T18:42:35Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-16T20:36:35Z",
                 "open_issues": 1,
                 "owner": "geoffmyers",
                 "repo": "multitrack-audio-visualizer",
                 "stars": 5,
                 "topics": [
-                  "audio-visualizer",
-                  "audio-visualizers",
-                  "audiovisualizer",
-                  "frequency-spectrum",
-                  "music-visualisation",
-                  "music-visualization",
-                  "music-visualizer",
-                  "musictech",
-                  "musicvisualization",
-                  "musicviz",
-                  "vj",
-                  "waveform-visualizer"
+                  "audio",
+                  "canvas",
+                  "ffmpeg",
+                  "multitrack",
+                  "music",
+                  "typescript",
+                  "video-export",
+                  "visualization",
+                  "web-audio"
                 ]
               },
               "first_seen": "2026-08-29T02:28:16.321Z"
@@ -313,7 +310,7 @@
             "open_issues": 3,
             "owner": "stewdio",
             "repo": "beep.js",
-            "stars": 1368,
+            "stars": 1367,
             "topics": [
               "audio",
               "beep",
@@ -525,7 +522,7 @@
             "id": 34694161,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T19:46:45Z",
+            "last_commit": "2026-09-16T16:21:16Z",
             "open_issues": 0,
             "owner": "stevekinney",
             "repo": "octavian",
@@ -594,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T15:34:24Z",
-            "open_issues": 340,
+            "last_commit": "2026-09-16T21:29:56Z",
+            "open_issues": 330,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48167,
+            "stars": 48173,
             "topics": [
               "canvas",
               "canvas2d",
@@ -633,7 +630,7 @@
             "open_issues": 18,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6419,
+            "stars": 6420,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -840,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:27:12.797Z",
+    "last_updated": "2026-09-16T22:24:01.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
