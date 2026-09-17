@@ -188,12 +188,12 @@
               "repo_info": {
                 "archived": false,
                 "description": "Browser-based multitrack audio visualiser with synchronised playback, configurable presets and video export via ffmpeg.wasm. Shares one core with a headless CLI.",
-                "homepage": "https://geoffmyers.com",
+                "homepage": "https://multitrack-audio-visualizer.geoffmyers.com",
                 "id": 1126822752,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T20:36:35Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-17T14:49:23Z",
+                "open_issues": 0,
                 "owner": "geoffmyers",
                 "repo": "multitrack-audio-visualizer",
                 "stars": 5,
@@ -256,7 +256,7 @@
             "open_issues": 43,
             "owner": "bbc",
             "repo": "audiowaveform",
-            "stars": 2162,
+            "stars": 2163,
             "topics": [
               "audio",
               "c-plus-plus"
@@ -364,7 +364,7 @@
             "open_issues": 15,
             "owner": "chrisguttandin",
             "repo": "standardized-audio-context",
-            "stars": 778,
+            "stars": 779,
             "topics": [
               "audio",
               "audio-worklet",
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T21:29:56Z",
-            "open_issues": 330,
+            "last_commit": "2026-09-17T07:28:48Z",
+            "open_issues": 335,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48173,
+            "stars": 48179,
             "topics": [
               "canvas",
               "canvas2d",
@@ -630,7 +630,7 @@
             "open_issues": 18,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6420,
+            "stars": 6421,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -768,7 +768,7 @@
             "open_issues": 14,
             "owner": "kelvinau",
             "repo": "circular-audio-wave",
-            "stars": 281,
+            "stars": 282,
             "topics": [
               "audio-reactive",
               "canvas",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T22:24:01.732Z",
+    "last_updated": "2026-09-17T22:27:10.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
