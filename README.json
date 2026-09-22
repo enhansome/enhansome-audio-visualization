@@ -73,7 +73,7 @@
             "open_issues": 11,
             "owner": "mfcc64",
             "repo": "youtube-musical-spectrum",
-            "stars": 197,
+            "stars": 198,
             "topics": [
               "audio-visualizer",
               "browser-extension",
@@ -280,7 +280,7 @@
             "open_issues": 70,
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1667,
+            "stars": 1668,
             "topics": [
               "audio-features",
               "feature-extraction",
@@ -391,7 +391,7 @@
             "open_issues": 4,
             "owner": "chrisguttandin",
             "repo": "web-audio-beat-detector",
-            "stars": 679,
+            "stars": 680,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -505,7 +505,7 @@
             "open_issues": 5,
             "owner": "hughsk",
             "repo": "web-audio-analyser",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -595,7 +595,7 @@
             "open_issues": 344,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48198,
+            "stars": 48207,
             "topics": [
               "canvas",
               "canvas2d",
@@ -630,7 +630,7 @@
             "open_issues": 18,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6427,
+            "stars": 6431,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:50:43.006Z",
+    "last_updated": "2026-09-22T22:26:20.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
@@ -849,7 +849,7 @@
       "open_issues": 16,
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
-      "stars": 5075,
+      "stars": 5078,
       "topics": []
     },
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
