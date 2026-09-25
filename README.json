@@ -43,7 +43,7 @@
             "open_issues": 20,
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 732,
+            "stars": 733,
             "topics": [
               "audio",
               "audio-plugin",
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T21:43:23Z",
-            "open_issues": 352,
+            "last_commit": "2026-09-25T20:33:05Z",
+            "open_issues": 339,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48223,
+            "stars": 48226,
             "topics": [
               "canvas",
               "canvas2d",
@@ -627,10 +627,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-21T12:31:48Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6436,
+            "stars": 6439,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -665,7 +665,7 @@
             "open_issues": 7,
             "owner": "kylestetz",
             "repo": "slang",
-            "stars": 1202,
+            "stars": 1201,
             "topics": [
               "audio",
               "javascript",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T22:44:32.772Z",
+    "last_updated": "2026-09-25T22:50:39.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
@@ -846,10 +846,10 @@
       "language": "Shell",
       "license": null,
       "last_commit": "2026-08-13T14:34:10Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
-      "stars": 5079,
+      "stars": 5080,
       "topics": []
     },
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
