@@ -280,7 +280,7 @@
             "open_issues": 70,
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1668,
+            "stars": 1669,
             "topics": [
               "audio-features",
               "feature-extraction",
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T20:33:05Z",
-            "open_issues": 351,
+            "last_commit": "2026-09-28T20:07:06Z",
+            "open_issues": 355,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48232,
+            "stars": 48242,
             "topics": [
               "canvas",
               "canvas2d",
@@ -630,7 +630,7 @@
             "open_issues": 19,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6441,
+            "stars": 6444,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -709,7 +709,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2018-06-26T22:17:48Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "wizgrav",
             "repo": "clubber",
             "stars": 377,
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:35:55.878Z",
+    "last_updated": "2026-09-28T23:58:32.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
