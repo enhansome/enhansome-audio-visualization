@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T12:55:15Z",
-            "open_issues": 367,
+            "last_commit": "2026-09-30T18:53:12Z",
+            "open_issues": 365,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48243,
+            "stars": 48246,
             "topics": [
               "canvas",
               "canvas2d",
@@ -630,7 +630,7 @@
             "open_issues": 19,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6442,
+            "stars": 6446,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:14:07.831Z",
+    "last_updated": "2026-09-30T23:13:41.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
