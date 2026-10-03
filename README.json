@@ -595,7 +595,7 @@
             "open_issues": 369,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48263,
+            "stars": 48265,
             "topics": [
               "canvas",
               "canvas2d",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:18:19.134Z",
+    "last_updated": "2026-10-03T04:35:37.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",

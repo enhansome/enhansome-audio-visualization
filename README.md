@@ -12,7 +12,7 @@
 * [Check the logo in action](http://www.shiz.co/aav/)
 * [Contributing Guide](Contributing.md)
 
-[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,721 | 🐛 106 | 📅 2026-09-02
+[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02
 
 ## Table of Contents
 
@@ -231,7 +231,7 @@
 
 ## Libraries Visualization
 
-* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,263 | 🐛 369 | 🌐 TypeScript | 📅 2026-10-02 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,265 | 🐛 369 | 🌐 TypeScript | 📅 2026-10-02 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
 * [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,451 | 🐛 19 | 🌐 C | 📅 2026-09-21 - A cross-platform terminal visualizer.
 * [Slang](https://github.com/kylestetz/slang) ⭐ 1,201 | 🐛 7 | 🌐 JavaScript | 📅 2020-03-15 - An audio programming language built in JS
 * [Hylogen](https://github.com/sleexyz/hylogen) ⭐ 488 | 🐛 20 | 🌐 JavaScript | 📅 2024-01-15 - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
@@ -320,7 +320,7 @@
 
 ## Contributing
 
-Your contributions are always welcome! [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md) ⭐ 5,083 | 🐛 18 | 🌐 Shell | 📅 2026-08-13.
+Your contributions are always welcome! [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md).
 
 ## Authors
 
@@ -336,4 +336,4 @@ To the extent possible under law, [Willian Justen](http://github.com/willianjust
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
