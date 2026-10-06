@@ -235,7 +235,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3924,
+            "stars": 3923,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -591,8 +591,8 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T07:25:32Z",
-            "open_issues": 376,
+            "last_commit": "2026-10-06T17:52:42Z",
+            "open_issues": 378,
             "owner": "pixijs",
             "repo": "pixijs",
             "stars": 48294,
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:24:07.894Z",
+    "last_updated": "2026-10-06T23:21:17.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",

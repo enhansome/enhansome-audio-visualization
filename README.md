@@ -12,7 +12,7 @@
 * [Check the logo in action](http://www.shiz.co/aav/)
 * [Contributing Guide](Contributing.md)
 
-[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,355 | 🐛 106 | 📅 2026-09-02
+[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,630 | 🐛 106 | 📅 2026-09-02
 
 ## Table of Contents
 
@@ -231,7 +231,7 @@
 
 ## Libraries Visualization
 
-* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,294 | 🐛 376 | 🌐 TypeScript | 📅 2026-10-06 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,294 | 🐛 378 | 🌐 TypeScript | 📅 2026-10-06 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
 * [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,465 | 🐛 19 | 🌐 C | 📅 2026-09-21 - A cross-platform terminal visualizer.
 * [Slang](https://github.com/kylestetz/slang) ⭐ 1,201 | 🐛 7 | 🌐 JavaScript | 📅 2020-03-15 - An audio programming language built in JS
 * [Hylogen](https://github.com/sleexyz/hylogen) ⭐ 488 | 🐛 20 | 🌐 JavaScript | 📅 2024-01-15 - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
