@@ -12,7 +12,7 @@
 * [Check the logo in action](http://www.shiz.co/aav/)
 * [Contributing Guide](Contributing.md)
 
-[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,630 | 🐛 106 | 📅 2026-09-02
+[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,092 | 🐛 106 | 📅 2026-09-02
 
 ## Table of Contents
 
@@ -51,7 +51,7 @@
 
 * [p5.js Audio Visualizer](https://amandayehh.github.io/audio-visualizer/) - A powerful, beat- and amplitude-responsive audio visualizer created with [p5.sound](https://github.com/processing/p5.js-sound) ⭐ 912 | 🐛 194 | 🌐 JavaScript | 📅 2025-09-05, on an HTML5 Canvas by Amanda Yeh.
 
-* [osci-render](https://github.com/jameshball/osci-render) ⭐ 733 | 🐛 20 | 🌐 C++ | 📅 2026-10-04 - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
+* [osci-render](https://github.com/jameshball/osci-render) ⭐ 733 | 🐛 20 | 🌐 C++ | 📅 2026-10-07 - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
 
 * [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) ⭐ 198 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-09 - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
 
@@ -214,7 +214,7 @@
 * [p5.sound](https://github.com/processing/p5.js-sound) ⭐ 912 | 🐛 194 | 🌐 JavaScript | 📅 2025-09-05 - Brings the Processing approach to Web Audio and p5.js.
 * [standardized-audio-context](https://github.com/chrisguttandin/standardized-audio-context) ⭐ 779 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-01 - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
 * [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) ⭐ 680 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-30 - A beat detection utility which is using the Web Audio API.
-* [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) ⭐ 542 | 🐛 3 | 🌐 JavaScript | 📅 2015-10-17 - Helps you create music visualizations in Three.js or tQuery.
+* [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) ⭐ 541 | 🐛 3 | 🌐 JavaScript | 📅 2015-10-17 - Helps you create music visualizations in Three.js or tQuery.
 * [wav](https://github.com/go-audio/wav) ⚠️ Archived - Battle tested Wav decoder/encoder
 * [web-audio-player](https://github.com/Jam3/web-audio-player) ⭐ 242 | 🐛 15 | 🌐 JavaScript | 📅 2020-04-13 - A cross-browser Web Audio player.
 * [audio](https://github.com/go-audio/audio) ⚠️ Archived - Generic Go package designed to define a common interface to analyze and/or process audio data
@@ -231,7 +231,7 @@
 
 ## Libraries Visualization
 
-* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,294 | 🐛 378 | 🌐 TypeScript | 📅 2026-10-06 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,310 | 🐛 374 | 🌐 TypeScript | 📅 2026-10-07 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
 * [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,465 | 🐛 19 | 🌐 C | 📅 2026-09-21 - A cross-platform terminal visualizer.
 * [Slang](https://github.com/kylestetz/slang) ⭐ 1,201 | 🐛 7 | 🌐 JavaScript | 📅 2020-03-15 - An audio programming language built in JS
 * [Hylogen](https://github.com/sleexyz/hylogen) ⭐ 488 | 🐛 20 | 🌐 JavaScript | 📅 2024-01-15 - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
@@ -336,4 +336,4 @@ To the extent possible under law, [Willian Justen](http://github.com/willianjust
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
