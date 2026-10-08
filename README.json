@@ -235,7 +235,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3923,
+            "stars": 3924,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -256,7 +256,7 @@
             "open_issues": 43,
             "owner": "bbc",
             "repo": "audiowaveform",
-            "stars": 2167,
+            "stars": 2168,
             "topics": [
               "audio",
               "c-plus-plus"
@@ -280,7 +280,7 @@
             "open_issues": 70,
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1669,
+            "stars": 1670,
             "topics": [
               "audio-features",
               "feature-extraction",
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T20:24:42Z",
-            "open_issues": 374,
+            "last_commit": "2026-10-08T23:39:08Z",
+            "open_issues": 375,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48310,
+            "stars": 48315,
             "topics": [
               "canvas",
               "canvas2d",
@@ -665,7 +665,7 @@
             "open_issues": 7,
             "owner": "kylestetz",
             "repo": "slang",
-            "stars": 1201,
+            "stars": 1202,
             "topics": [
               "audio",
               "javascript",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:53:03.451Z",
+    "last_updated": "2026-10-08T23:59:07.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
@@ -846,10 +846,10 @@
       "language": "Shell",
       "license": null,
       "last_commit": "2026-08-13T14:34:10Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
-      "stars": 5087,
+      "stars": 5084,
       "topics": []
     },
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
