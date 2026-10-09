@@ -19,7 +19,7 @@
             "open_issues": 194,
             "owner": "processing",
             "repo": "p5.js-sound",
-            "stars": 912,
+            "stars": 913,
             "topics": [
               "audio",
               "sound"
@@ -39,11 +39,11 @@
             "id": 235408465,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T07:52:34Z",
+            "last_commit": "2026-10-09T18:45:43Z",
             "open_issues": 20,
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 733,
+            "stars": 732,
             "topics": [
               "audio",
               "audio-plugin",
@@ -235,7 +235,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3924,
+            "stars": 3923,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -340,7 +340,7 @@
             "open_issues": 194,
             "owner": "processing",
             "repo": "p5.js-sound",
-            "stars": 912,
+            "stars": 913,
             "topics": [
               "audio",
               "sound"
@@ -547,7 +547,7 @@
             "open_issues": 1,
             "owner": "scrapjs",
             "repo": "render",
-            "stars": 44,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T23:39:08Z",
-            "open_issues": 375,
+            "last_commit": "2026-10-09T12:27:39Z",
+            "open_issues": 377,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48315,
+            "stars": 48316,
             "topics": [
               "canvas",
               "canvas2d",
@@ -630,7 +630,7 @@
             "open_issues": 19,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6465,
+            "stars": 6467,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:59:07.446Z",
+    "last_updated": "2026-10-09T23:35:34.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
