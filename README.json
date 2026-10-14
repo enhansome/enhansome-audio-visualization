@@ -39,7 +39,7 @@
             "id": 235408465,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T19:58:46Z",
+            "last_commit": "2026-10-14T22:37:19Z",
             "open_issues": 20,
             "owner": "jameshball",
             "repo": "osci-render",
@@ -256,7 +256,7 @@
             "open_issues": 43,
             "owner": "bbc",
             "repo": "audiowaveform",
-            "stars": 2167,
+            "stars": 2166,
             "topics": [
               "audio",
               "c-plus-plus"
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T15:14:52Z",
+            "last_commit": "2026-10-14T20:25:15Z",
             "open_issues": 386,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48369,
+            "stars": 48378,
             "topics": [
               "canvas",
               "canvas2d",
@@ -630,7 +630,7 @@
             "open_issues": 18,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6477,
+            "stars": 6479,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:26:57.124Z",
+    "last_updated": "2026-10-14T22:42:23.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
@@ -849,7 +849,7 @@
       "open_issues": 20,
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
-      "stars": 5087,
+      "stars": 5089,
       "topics": []
     },
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
