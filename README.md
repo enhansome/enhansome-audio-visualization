@@ -12,7 +12,7 @@
 * [Check the logo in action](http://www.shiz.co/aav/)
 * [Contributing Guide](Contributing.md)
 
-[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,971 | 🐛 105 | 📅 2026-09-02
+[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,444 | 🐛 105 | 📅 2026-09-02
 
 ## Table of Contents
 
@@ -45,13 +45,13 @@
 * [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
 * [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 * [Motion Sound](http://motionsound.io/)
-* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,483 | 🐛 20 | 🌐 C | 📅 2026-09-21 - A cross-platform terminal visualizer.
+* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,484 | 🐛 20 | 🌐 C | 📅 2026-09-21 - A cross-platform terminal visualizer.
 
 ## Experiments
 
 * [p5.js Audio Visualizer](https://amandayehh.github.io/audio-visualizer/) - A powerful, beat- and amplitude-responsive audio visualizer created with [p5.sound](https://github.com/processing/p5.js-sound) ⭐ 914 | 🐛 194 | 🌐 JavaScript | 📅 2025-09-05, on an HTML5 Canvas by Amanda Yeh.
 
-* [osci-render](https://github.com/jameshball/osci-render) ⭐ 734 | 🐛 20 | 🌐 C++ | 📅 2026-10-16 - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
+* [osci-render](https://github.com/jameshball/osci-render) ⭐ 734 | 🐛 20 | 🌐 C++ | 📅 2026-10-17 - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
 
 * [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) ⭐ 198 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-09 - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
 
@@ -231,8 +231,8 @@
 
 ## Libraries Visualization
 
-* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,400 | 🐛 393 | 🌐 TypeScript | 📅 2026-10-14 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
-* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,483 | 🐛 20 | 🌐 C | 📅 2026-09-21 - A cross-platform terminal visualizer.
+* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,410 | 🐛 395 | 🌐 TypeScript | 📅 2026-10-17 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,484 | 🐛 20 | 🌐 C | 📅 2026-09-21 - A cross-platform terminal visualizer.
 * [Slang](https://github.com/kylestetz/slang) ⭐ 1,202 | 🐛 7 | 🌐 JavaScript | 📅 2020-03-15 - An audio programming language built in JS
 * [Hylogen](https://github.com/sleexyz/hylogen) ⭐ 488 | 🐛 20 | 🌐 JavaScript | 📅 2024-01-15 - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 * [Clubber.js](https://github.com/wizgrav/clubber) ⭐ 377 | 🐛 6 | 🌐 JavaScript | 📅 2018-06-26 - Application of music theory in audio reactive visualizations.
@@ -336,4 +336,4 @@ To the extent possible under law, [Willian Justen](http://github.com/willianjust
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
