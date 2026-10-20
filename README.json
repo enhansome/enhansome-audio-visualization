@@ -256,7 +256,7 @@
             "open_issues": 43,
             "owner": "bbc",
             "repo": "audiowaveform",
-            "stars": 2168,
+            "stars": 2169,
             "topics": [
               "audio",
               "c-plus-plus"
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T12:46:14Z",
-            "open_issues": 398,
+            "last_commit": "2026-10-20T16:26:51Z",
+            "open_issues": 401,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48423,
+            "stars": 48432,
             "topics": [
               "canvas",
               "canvas2d",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:07:25.057Z",
+    "last_updated": "2026-10-20T22:43:38.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
@@ -846,7 +846,7 @@
       "language": "Shell",
       "license": null,
       "last_commit": "2026-08-13T14:34:10Z",
-      "open_issues": 20,
+      "open_issues": 21,
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
       "stars": 5093,
