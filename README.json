@@ -40,7 +40,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-17T23:05:22Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "jameshball",
             "repo": "osci-render",
             "stars": 735,
@@ -256,7 +256,7 @@
             "open_issues": 43,
             "owner": "bbc",
             "repo": "audiowaveform",
-            "stars": 2169,
+            "stars": 2170,
             "topics": [
               "audio",
               "c-plus-plus"
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T16:26:51Z",
-            "open_issues": 401,
+            "last_commit": "2026-10-21T22:40:01Z",
+            "open_issues": 408,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48432,
+            "stars": 48441,
             "topics": [
               "canvas",
               "canvas2d",
@@ -626,11 +626,11 @@
             "id": 17808949,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-21T12:31:48Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-21T17:42:52Z",
+            "open_issues": 18,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6488,
+            "stars": 6489,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -747,7 +747,7 @@
             "open_issues": 11,
             "owner": "shawnlawson",
             "repo": "The_Force",
-            "stars": 294,
+            "stars": 295,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:43:38.355Z",
+    "last_updated": "2026-10-21T22:48:32.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
@@ -846,7 +846,7 @@
       "language": "Shell",
       "license": null,
       "last_commit": "2026-08-13T14:34:10Z",
-      "open_issues": 21,
+      "open_issues": 22,
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
       "stars": 5093,
