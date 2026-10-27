@@ -19,7 +19,7 @@
             "open_issues": 194,
             "owner": "processing",
             "repo": "p5.js-sound",
-            "stars": 914,
+            "stars": 915,
             "topics": [
               "audio",
               "sound"
@@ -40,7 +40,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-26T21:43:57Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "jameshball",
             "repo": "osci-render",
             "stars": 738,
@@ -73,7 +73,7 @@
             "open_issues": 11,
             "owner": "mfcc64",
             "repo": "youtube-musical-spectrum",
-            "stars": 198,
+            "stars": 197,
             "topics": [
               "audio-visualizer",
               "browser-extension",
@@ -256,7 +256,7 @@
             "open_issues": 43,
             "owner": "bbc",
             "repo": "audiowaveform",
-            "stars": 2170,
+            "stars": 2171,
             "topics": [
               "audio",
               "c-plus-plus"
@@ -340,7 +340,7 @@
             "open_issues": 194,
             "owner": "processing",
             "repo": "p5.js-sound",
-            "stars": 914,
+            "stars": 915,
             "topics": [
               "audio",
               "sound"
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T14:46:23Z",
-            "open_issues": 409,
+            "last_commit": "2026-10-27T09:26:04Z",
+            "open_issues": 410,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48523,
+            "stars": 48568,
             "topics": [
               "canvas",
               "canvas2d",
@@ -627,7 +627,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-23T13:57:18Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "karlstav",
             "repo": "cava",
             "stars": 6496,
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:23:27.625Z",
+    "last_updated": "2026-10-27T23:14:58.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
