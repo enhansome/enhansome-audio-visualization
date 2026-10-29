@@ -12,7 +12,7 @@
 * [Check the logo in action](http://www.shiz.co/aav/)
 * [Contributing Guide](Contributing.md)
 
-[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,306 | 🐛 105 | 📅 2026-09-02
+[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,838 | 🐛 105 | 📅 2026-09-02
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@
 * [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
 * [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 * [Motion Sound](http://motionsound.io/)
-* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,497 | 🐛 11 | 🌐 C | 📅 2026-10-28 - A cross-platform terminal visualizer.
+* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,500 | 🐛 11 | 🌐 C | 📅 2026-10-28 - A cross-platform terminal visualizer.
 
 ## Experiments
 
@@ -208,12 +208,12 @@
 ## Libraries Audio
 
 * [MIDI.js](https://github.com/mudcube/MIDI.js/) ⭐ 3,926 | 🐛 141 | 🌐 JavaScript | 📅 2024-06-16 - Making life easy to create a MIDI-app on the web.
-* [audiowaveform](https://github.com/bbc/audiowaveform) ⭐ 2,171 | 🐛 43 | 🌐 C++ | 📅 2025-08-24 - C++ program to generate waveform data and render waveform images from audio files.
-* [meyda](https://github.com/meyda/meyda) ⭐ 1,672 | 🐛 70 | 🌐 TypeScript | 📅 2024-07-15 - Audio feature extraction for JavaScript.
+* [audiowaveform](https://github.com/bbc/audiowaveform) ⭐ 2,170 | 🐛 43 | 🌐 C++ | 📅 2025-08-24 - C++ program to generate waveform data and render waveform images from audio files.
+* [meyda](https://github.com/meyda/meyda) ⭐ 1,671 | 🐛 70 | 🌐 TypeScript | 📅 2024-07-15 - Audio feature extraction for JavaScript.
 * [Beep.js](https://github.com/stewdio/beep.js) ⭐ 1,369 | 🐛 3 | 🌐 JavaScript | 📅 2015-05-10 - A JavaScript toolkit for building browser-based synthesizers.
 * [p5.sound](https://github.com/processing/p5.js-sound) ⭐ 915 | 🐛 194 | 🌐 JavaScript | 📅 2025-09-05 - Brings the Processing approach to Web Audio and p5.js.
 * [standardized-audio-context](https://github.com/chrisguttandin/standardized-audio-context) ⭐ 779 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-01 - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
-* [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) ⭐ 680 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-30 - A beat detection utility which is using the Web Audio API.
+* [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) ⭐ 679 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-30 - A beat detection utility which is using the Web Audio API.
 * [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) ⭐ 541 | 🐛 3 | 🌐 JavaScript | 📅 2015-10-17 - Helps you create music visualizations in Three.js or tQuery.
 * [wav](https://github.com/go-audio/wav) ⚠️ Archived - Battle tested Wav decoder/encoder
 * [web-audio-player](https://github.com/Jam3/web-audio-player) ⭐ 241 | 🐛 15 | 🌐 JavaScript | 📅 2020-04-13 - A cross-browser Web Audio player.
@@ -231,8 +231,8 @@
 
 ## Libraries Visualization
 
-* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,585 | 🐛 411 | 🌐 TypeScript | 📅 2026-10-28 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
-* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,497 | 🐛 11 | 🌐 C | 📅 2026-10-28 - A cross-platform terminal visualizer.
+* [Pixi.js](https://github.com/pixijs/pixi.js/) ⭐ 48,589 | 🐛 413 | 🌐 TypeScript | 📅 2026-10-28 - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+* [Cava](https://github.com/karlstav/cava#latency-notes) ⭐ 6,500 | 🐛 11 | 🌐 C | 📅 2026-10-28 - A cross-platform terminal visualizer.
 * [Slang](https://github.com/kylestetz/slang) ⭐ 1,202 | 🐛 7 | 🌐 JavaScript | 📅 2020-03-15 - An audio programming language built in JS
 * [Hylogen](https://github.com/sleexyz/hylogen) ⭐ 488 | 🐛 20 | 🌐 JavaScript | 📅 2024-01-15 - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 * [Clubber.js](https://github.com/wizgrav/clubber) ⭐ 376 | 🐛 6 | 🌐 JavaScript | 📅 2018-06-26 - Application of music theory in audio reactive visualizations.
@@ -336,4 +336,4 @@ To the extent possible under law, [Willian Justen](http://github.com/willianjust
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
