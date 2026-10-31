@@ -280,7 +280,7 @@
             "open_issues": 70,
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1671,
+            "stars": 1672,
             "topics": [
               "audio-features",
               "feature-extraction",
@@ -592,10 +592,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-30T22:31:56Z",
-            "open_issues": 410,
+            "open_issues": 411,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48600,
+            "stars": 48606,
             "topics": [
               "canvas",
               "canvas2d",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:17:50.217Z",
+    "last_updated": "2026-10-31T22:51:53.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
@@ -846,7 +846,7 @@
       "language": "Shell",
       "license": null,
       "last_commit": "2026-08-13T14:34:10Z",
-      "open_issues": 23,
+      "open_issues": 24,
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
       "stars": 5099,
