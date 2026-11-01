@@ -69,8 +69,8 @@
             "id": 177758255,
             "language": "JavaScript",
             "license": "LGPL-3.0",
-            "last_commit": "2026-07-09T14:08:56Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-01T15:39:17Z",
+            "open_issues": 11,
             "owner": "mfcc64",
             "repo": "youtube-musical-spectrum",
             "stars": 197,
@@ -256,7 +256,7 @@
             "open_issues": 43,
             "owner": "bbc",
             "repo": "audiowaveform",
-            "stars": 2170,
+            "stars": 2171,
             "topics": [
               "audio",
               "c-plus-plus"
@@ -595,7 +595,7 @@
             "open_issues": 411,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48606,
+            "stars": 48611,
             "topics": [
               "canvas",
               "canvas2d",
@@ -626,8 +626,8 @@
             "id": 17808949,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-28T18:37:39Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-01T21:26:21Z",
+            "open_issues": 12,
             "owner": "karlstav",
             "repo": "cava",
             "stars": 6501,
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:51:53.121Z",
+    "last_updated": "2026-11-01T23:08:06.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
