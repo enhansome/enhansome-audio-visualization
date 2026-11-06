@@ -43,7 +43,7 @@
             "open_issues": 22,
             "owner": "jameshball",
             "repo": "osci-render",
-            "stars": 738,
+            "stars": 740,
             "topics": [
               "audio",
               "audio-plugin",
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T10:12:22Z",
-            "open_issues": 418,
+            "last_commit": "2026-11-06T22:28:33Z",
+            "open_issues": 419,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48632,
+            "stars": 48641,
             "topics": [
               "canvas",
               "canvas2d",
@@ -630,7 +630,7 @@
             "open_issues": 11,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6511,
+            "stars": 6510,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:34:21.157Z",
+    "last_updated": "2026-11-06T23:50:15.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
