@@ -280,7 +280,7 @@
             "open_issues": 71,
             "owner": "meyda",
             "repo": "meyda",
-            "stars": 1674,
+            "stars": 1673,
             "topics": [
               "audio-features",
               "feature-extraction",
@@ -391,7 +391,7 @@
             "open_issues": 4,
             "owner": "chrisguttandin",
             "repo": "web-audio-beat-detector",
-            "stars": 680,
+            "stars": 681,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -433,7 +433,7 @@
             "open_issues": 22,
             "owner": "go-audio",
             "repo": "wav",
-            "stars": 393,
+            "stars": 392,
             "topics": [
               "audio",
               "decoder",
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T13:45:17Z",
-            "open_issues": 446,
+            "last_commit": "2026-11-19T22:38:23Z",
+            "open_issues": 454,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48820,
+            "stars": 48854,
             "topics": [
               "canvas",
               "canvas2d",
@@ -627,10 +627,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-11-11T21:53:20Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6536,
+            "stars": 6539,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -665,7 +665,7 @@
             "open_issues": 7,
             "owner": "kylestetz",
             "repo": "slang",
-            "stars": 1201,
+            "stars": 1199,
             "topics": [
               "audio",
               "javascript",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:31:33.589Z",
+    "last_updated": "2026-11-20T01:27:11.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
@@ -846,10 +846,10 @@
       "language": "Shell",
       "license": null,
       "last_commit": "2026-08-13T14:34:10Z",
-      "open_issues": 30,
+      "open_issues": 31,
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
-      "stars": 5115,
+      "stars": 5116,
       "topics": []
     },
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
