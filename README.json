@@ -73,7 +73,7 @@
             "open_issues": 11,
             "owner": "mfcc64",
             "repo": "youtube-musical-spectrum",
-            "stars": 197,
+            "stars": 198,
             "topics": [
               "audio-visualizer",
               "browser-extension",
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T22:38:23Z",
-            "open_issues": 454,
+            "last_commit": "2026-11-20T16:36:15Z",
+            "open_issues": 442,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48854,
+            "stars": 48866,
             "topics": [
               "canvas",
               "canvas2d",
@@ -627,10 +627,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-11-11T21:53:20Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6539,
+            "stars": 6540,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:27:11.766Z",
+    "last_updated": "2026-11-21T00:58:03.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
