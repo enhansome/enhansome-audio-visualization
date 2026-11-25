@@ -235,7 +235,7 @@
             "open_issues": 141,
             "owner": "mudcube",
             "repo": "MIDI.js",
-            "stars": 3926,
+            "stars": 3925,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -391,7 +391,7 @@
             "open_issues": 4,
             "owner": "chrisguttandin",
             "repo": "web-audio-beat-detector",
-            "stars": 682,
+            "stars": 683,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:16.321Z"
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T16:36:15Z",
-            "open_issues": 448,
+            "last_commit": "2026-11-24T11:21:49Z",
+            "open_issues": 453,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48883,
+            "stars": 48897,
             "topics": [
               "canvas",
               "canvas2d",
@@ -630,7 +630,7 @@
             "open_issues": 11,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6549,
+            "stars": 6553,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:27:09.336Z",
+    "last_updated": "2026-11-25T03:11:39.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
@@ -846,10 +846,10 @@
       "language": "Shell",
       "license": null,
       "last_commit": "2026-08-13T14:34:10Z",
-      "open_issues": 31,
+      "open_issues": 33,
       "owner": "willianjusten",
       "repo": "awesome-audio-visualization",
-      "stars": 5119,
+      "stars": 5120,
       "topics": []
     },
     "original_repository_sha": "feabb60432a5a5f3a5714428705a3848138608eb",
