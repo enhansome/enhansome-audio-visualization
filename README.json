@@ -364,7 +364,7 @@
             "open_issues": 15,
             "owner": "chrisguttandin",
             "repo": "standardized-audio-context",
-            "stars": 781,
+            "stars": 782,
             "topics": [
               "audio",
               "audio-worklet",
@@ -591,11 +591,11 @@
             "id": 7741856,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T11:21:49Z",
-            "open_issues": 453,
+            "last_commit": "2026-11-25T22:32:18Z",
+            "open_issues": 456,
             "owner": "pixijs",
             "repo": "pixijs",
-            "stars": 48897,
+            "stars": 48904,
             "topics": [
               "canvas",
               "canvas2d",
@@ -630,7 +630,7 @@
             "open_issues": 11,
             "owner": "karlstav",
             "repo": "cava",
-            "stars": 6553,
+            "stars": 6559,
             "topics": [
               "alsa",
               "audio-visualizer",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:11:39.584Z",
+    "last_updated": "2026-11-26T02:29:00.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list about Audio Visualization.",
